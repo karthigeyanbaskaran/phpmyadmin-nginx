@@ -62,3 +62,7 @@ Add this on nginx conf:
         fastcgi_pass unix:/run/php/php7.1-fpm.sock;
     }
 
+
+404 error code : https://serverfault.com/questions/918344/getting-error-404-running-phpmyadmin-as-a-sub-directory-using-nginx
+php-fpm installation: https://pixelspress.com/how-to-install-php-fpm-on-ubuntu/
+
